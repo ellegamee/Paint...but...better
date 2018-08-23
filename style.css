@@ -1,0 +1,16 @@
+
+body, html {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#canvas_element {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+#controls_element {
+    position: fixed;
+}
